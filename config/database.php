@@ -19,15 +19,15 @@ return [
     // 用户名
     'username'        => 'root',
     // 密码
-    'password'        => '',
+    'password'        => '123456',
     // 端口
-    'hostport'        => '',
+    'hostport'        => '3306',
     // 连接dsn
     'dsn'             => '',
     // 数据库连接参数
     'params'          => [],
     // 数据库编码默认采用utf8
-    'charset'         => 'utf8',
+    'charset'         => 'utf8mb4',
     // 数据库表前缀
     'prefix'          => '',
     // 数据库调试模式
